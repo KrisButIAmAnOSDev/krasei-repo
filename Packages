@@ -1,0 +1,14 @@
+Package: com.krasei.rune
+Name: Rune
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Mini SnowBoard-style icon themer for iOS 15+.
+Author: krasei
+Maintainer: krasei
+Section: Tweaks
+Depends: preferenceloader, firmware (>= 15.0)
+Filename: com.krasei.rune_1.0_iphoneos-arm64.deb
+Size: 38568
+MD5sum: 96f78ce0a5eb8fcd2ef2d48e9a58d66f
+SHA1: 1ad5c93a81ccfea0ae1041f4347a1772c578dcc7
+SHA256: b47c6d9c05be4c0fccbf1faed78ebc97e272505fc27a319a518b3aefe8416070
