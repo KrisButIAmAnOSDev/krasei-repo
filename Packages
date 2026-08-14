@@ -12,3 +12,45 @@ Size: 38568
 MD5sum: 96f78ce0a5eb8fcd2ef2d48e9a58d66f
 SHA1: 1ad5c93a81ccfea0ae1041f4347a1772c578dcc7
 SHA256: b47c6d9c05be4c0fccbf1faed78ebc97e272505fc27a319a518b3aefe8416070
+
+Package: fastfetch
+Name: fastfetch
+Version: 2.67.0-1
+Architecture: iphoneos-arm64
+Description: fastfetch port for ios
+Author: krasei
+Maintainer: krasei
+Section: Utilities
+Filename: fastfetch_2.67.0-1_iphoneos-arm64.deb
+Size: 564920
+MD5sum: a90c4a7e81238bc313533b3c462a4287
+SHA1: a31f23a833fc75b4c20f26597720635f63c14eec
+SHA256: 78c9ffcbc78991f4a2e4973ee225d61eabb158d8b914e11e253f31239c8af370
+
+Package: dev.theos.orion14
+Name: Orion Runtime
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Description: for ios 18/26 and for dopamine 3
+Author: krasei
+Maintainer: krasei
+Section: Development
+Filename: dev.theos.orion14_1.0.2_iphoneos-arm64.deb
+Size: 85394
+MD5sum: fe81894bef0438e7619f4027492a5b03
+SHA1: 5ee88778921043d16e10d83d8d2ccce5647b6cda
+SHA256: 42c181d408e0be2aeaa5cfbbb33e93c5e4abbef576893d71699666c7052d8a7f
+
+Package: com.krasei.tweak
+Name: Krasei Tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: krasei tweak
+Author: krasei
+Maintainer: krasei
+Section: Tweaks
+Filename: com.krasei.tweak_1.0.0-iphoneos-arm64.deb
+Size: 2222
+MD5sum: aee3ba95284ae430f630e30040fcfa46
+SHA1: 76e1c32765c3a4d84bca43699a7927cc0868e054
+SHA256: 4d66334c288159c4cf625776114be232421e4397f628fda35ed6d4299c70c170
