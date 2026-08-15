@@ -8,7 +8,7 @@ Author: krasei
 Section: Tweaks
 Depends: firmware (>= 15.0)
 Filename: com.krasei.rune_1.1_iphoneos-arm64.deb
-Size: 39332
+Size: 40184
 
 Package: com.krasei.tweak
 Name: Krasei Tweak
