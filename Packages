@@ -1,0 +1,48 @@
+Package: com.krasei.rune
+Name: Rune
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: SnowBoard-style icon themer with Spotlight support.
+Maintainer: krasei
+Author: krasei
+Section: Tweaks
+Depends: firmware (>= 15.0)
+Filename: com.krasei.rune_1.1_iphoneos-arm64.deb
+Size: 39332
+
+Package: com.krasei.tweak
+Name: Krasei Tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Krasei utility tweak.
+Maintainer: krasei
+Author: krasei
+Section: Tweaks
+Depends: firmware (>= 15.0)
+Filename: com.krasei.tweak_1.0.0-iphoneos-arm64.deb
+Size: 2222
+
+Package: dev.theos.orion14
+Name: Orion 14
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Description: Orion runtime for Theos tweaks.
+Maintainer: krasei
+Author: krasei
+Section: Development
+Depends: firmware (>= 15.0)
+Filename: dev.theos.orion14_1.0.2_iphoneos-arm64.deb
+Size: 85394
+
+Package: com.mdc.fastfetch
+Name: Fastfetch
+Version: 2.67.0
+Architecture: iphoneos-arm64
+Description: System information tool.
+Maintainer: krasei
+Author: krasei
+Section: Utilities
+Depends: firmware (>= 15.0)
+Filename: fastfetch_2.67.0-1_iphoneos-arm64.deb
+Size: 564920
+
